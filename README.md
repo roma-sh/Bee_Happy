@@ -1,6 +1,6 @@
 # Bee happy: Digital Beehive IoT Project
 
-![beehive](https://github.com/roma-sh/Bee_Happy/blob/master/assets/beehive.png)
+![beehive](https://github.com/roma-sh/Bee_Happy/blob/master/assets/beehive.jpg)
 
 ## Overview
 
